@@ -1,0 +1,10 @@
+D:\MARIA\Programare\Aplicatii\Instructiuni\Instructiunea if\Instructiunea if\bin\Debug\Instructiunea if.exe
+D:\MARIA\Programare\Aplicatii\Instructiuni\Instructiunea if\Instructiunea if\bin\Debug\Instructiunea if.pdb
+D:\MARIA\Programare\Aplicatii\Instructiuni\Instructiunea if\Instructiunea if\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Instructiuni\Instructiunea if\Instructiunea if\obj\Debug\Instructiunea_if.Form1.resources
+D:\MARIA\Programare\Aplicatii\Instructiuni\Instructiunea if\Instructiunea if\obj\Debug\Instructiunea_if.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Instructiuni\Instructiunea if\Instructiunea if\obj\Debug\Instructiunea if.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Instructiuni\Instructiunea if\Instructiunea if\obj\Debug\Instructiunea if.exe
+D:\MARIA\Programare\Aplicatii\Instructiuni\Instructiunea if\Instructiunea if\obj\Debug\Instructiunea if.pdb
+D:\MARIA\Programare\Aplicatii\Instructiunea if\Instructiunea if\obj\Debug\Instructiunea if.exe
+D:\MARIA\Programare\Aplicatii\Instructiunea if\Instructiunea if\obj\Debug\Instructiunea if.pdb

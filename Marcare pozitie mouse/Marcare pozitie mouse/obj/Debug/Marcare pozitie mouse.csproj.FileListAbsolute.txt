@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Marcare pozitie mouse\Marcare pozitie mouse\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Marcare pozitie mouse\Marcare pozitie mouse\obj\Debug\Marcare_pozitie_mouse.Form1.resources
+D:\MARIA\Programare\Aplicatii\Marcare pozitie mouse\Marcare pozitie mouse\obj\Debug\Marcare_pozitie_mouse.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Marcare pozitie mouse\Marcare pozitie mouse\obj\Debug\Marcare pozitie mouse.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Marcare pozitie mouse\Marcare pozitie mouse\bin\Debug\Marcare pozitie mouse.exe
+D:\MARIA\Programare\Aplicatii\Marcare pozitie mouse\Marcare pozitie mouse\bin\Debug\Marcare pozitie mouse.pdb
+D:\MARIA\Programare\Aplicatii\Marcare pozitie mouse\Marcare pozitie mouse\obj\Debug\Marcare pozitie mouse.exe
+D:\MARIA\Programare\Aplicatii\Marcare pozitie mouse\Marcare pozitie mouse\obj\Debug\Marcare pozitie mouse.pdb

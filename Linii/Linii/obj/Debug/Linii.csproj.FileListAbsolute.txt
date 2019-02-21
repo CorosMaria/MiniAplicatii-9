@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Linii\Linii\bin\Debug\Linii.exe
+D:\MARIA\Programare\Aplicatii\Linii\Linii\bin\Debug\Linii.pdb
+D:\MARIA\Programare\Aplicatii\Linii\Linii\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Linii\Linii\obj\Debug\Linii.Form1.resources
+D:\MARIA\Programare\Aplicatii\Linii\Linii\obj\Debug\Linii.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Linii\Linii\obj\Debug\Linii.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Linii\Linii\obj\Debug\Linii.exe
+D:\MARIA\Programare\Aplicatii\Linii\Linii\obj\Debug\Linii.pdb
